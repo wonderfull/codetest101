@@ -14,10 +14,10 @@ From project root
 `mvn test`
 
 2. Run longest word test
-'mvn -Dtest=WordLengthTests#longestWordInSentence test'
+`mvn -Dtest=WordLengthTests#longestWordInSentence test`
 
 3. Run shortest word test
-'mvn -Dtest=WordLengthTests#shortestWordInSentence test'
+`mvn -Dtest=WordLengthTests#shortestWordInSentence test`
 
 ## Assumptions
 1. Asserting word and length in single assert statement.
